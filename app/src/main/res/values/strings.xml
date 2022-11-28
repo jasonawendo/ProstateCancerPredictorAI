@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProstateCancerPredictorAI</string>
+    <string name="benign_description">Benign Prostate Cancer means the tumor stays in its primary
+        location without invading other sites of the body</string>
+    <string name="malignant_description">Malignant Prostate Cancer means the tumor spreads
+        uncontrollably to nearby tissue</string>
+
+
+</resources>
